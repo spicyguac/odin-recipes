@@ -4,6 +4,10 @@ h1 {
 }
 
 ul {
-    background-color: rgb(59, 116, 240);
     color: antiquewhite;
+    display: inline-block;
+}
+
+li {
+    padding: 8px;
 }
